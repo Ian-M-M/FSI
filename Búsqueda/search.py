@@ -122,7 +122,7 @@ def depth_first_graph_search(problem):
     return graph_search(problem, Stack())
 
 def bab(problem):
-    """Search the deepest nodes in the search tree first. [p 74]"""
+    """Busqueda por ramificación y acotación"""
     return graph_search(problem, babg())
 
 def babs_search(problem):

@@ -1,3 +1,3 @@
-# FSI Busqueda
+# Busqueda
 
-# FSI Redes Convolutivas
+# Clasificador de Legos
